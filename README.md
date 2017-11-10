@@ -1,2 +1,2 @@
 # DitchDetConn
-Scripts for the publication: 'Extraction of artifical drainage networks from LiDAR data: detection and connection of segments'
+Scripts for the publication: Scripts for the publication: 'Extracting drainage networks and their connectivity using LiDAR data (under review)'

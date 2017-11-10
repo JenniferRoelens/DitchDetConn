@@ -1,8 +1,9 @@
 '''
-Created on 12 jun. 2017
+Created in 2017
+@author: Jennifer Roelens
 
-@author: u0099505
 '''
+
 import arcpy
 from arcpy import sa
 import numpy

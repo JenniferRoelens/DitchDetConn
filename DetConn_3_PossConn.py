@@ -4,6 +4,8 @@ Created in 2017
 
 # Run this file after the detection and shifting stage
 # Find possible connections
+# IMPORTANT!!!! When finishing this script, field data on if the connection is true or false should be added!
+# See read me file 
 '''
 
 import DetConn_Input as inp
@@ -192,8 +194,8 @@ arcpy.AddField_management(inp.outputFolder + "all_lines" + ".shp", "dz", "DOUBLE
 arcpy.CalculateField_management(inp.outputFolder  + "all_lines" + ".shp", "dz", "!END_Z! - !START_Z!", "PYTHON")
 arcpy.AddField_management(inp.outputFolder + "all_lines" + ".shp", "conn", "DOUBLE")
 
-###########################################
-# ADD CONN
-###########################################
+####################################################
+# ADD FIELD DATA IN CONN COLUMN [1 = True, 0 = False
+####################################################
 
 print "Finished"

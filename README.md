@@ -21,11 +21,11 @@ How to use these scripts? [In allignment with the publication]
     - Error metrics are calculated for the calibrated model
 6. Run DetConn_5_Connect
     - The calibrated logistic connection model will be implemented on the overall network
-    - It is possible to implement your own probability model (see script, form = True)
-    - If you want to use the one developed in DetConn_4_ProbModel, write 'form = False)
+    - It is possible to implement your own probability model (see script, "form = True")
+    - If you want to use the one developed in DetConn_4_ProbModel, write "form = False")
 
 Model code and parts of the code can be reused with attribution (see license file)
 
 Roelens J. et al. (2017), Extracting drainage networks and their connectivity using LiDAR data, Hydrological Process (under review)
 
-# I'm an environmental modeller, not a professional programmer
+#I'm an environmental modeller, not a professional programmer

@@ -26,6 +26,6 @@ How to use these scripts? [In allignment with the publication]
 
 Model code and parts of the code can be reused with attribution (see license file)
 
-Roelens J. et al. (2017), Extracting drainage networks and their connectivity using LiDAR data, Hydrological Process (under review)
+Roelens J. et al. (2017), Extracting drainage networks and their connectivity using LiDAR data, Hydrological Processes
 
 #I'm an environmental modeller, not a professional programmer

@@ -1,5 +1,5 @@
 # DitchDetConn
-Scripts for the publication: Scripts for the publication: 'Extracting drainage networks and their connectivity using LiDAR data (under review)'. Only scripts containing a number need to be ran.
+Scripts for the publication: Scripts for the publication: 'Extracting drainage networks and their connectivity using LiDAR data (doi/10.1002/hyp.11472)'. Only scripts containing a number need to be run.
 
 How to use these scripts? [In allignment with the publication]
 
